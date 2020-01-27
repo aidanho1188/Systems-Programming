@@ -1,3 +1,4 @@
 # Systems-Programming
 
-This repositories was create Systems Programming class.
+This repositories was create for Systems Programming class.
+
