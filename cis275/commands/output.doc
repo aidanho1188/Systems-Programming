@@ -1,0 +1,23 @@
+echo "Hello World"
+Hello World
+---------------------------
+echo "Hello World" > output
+echo output
+Hello World
+
+> overide everything
+---------------------------
+
+echo "Hello World!" >> output
+echo output
+Hello World!
+
+echo "This is the first program" >> output
+cat output
+
+Hello World!
+This is the first program
+
+>> add on
+--------------------------
+less output(filename) -- show less information, can scroll up and down!!!
